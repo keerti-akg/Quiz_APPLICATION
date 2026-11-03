@@ -2,7 +2,8 @@
 # Course: BCA 1st Semester (Section 1A)
 # Subject: Programming Fundamentals Using Python (RU-100-05-00058)
 # University: Rungta International Skills University
-
+# Name: keerti shukla 
+# Erp: 00059
 import random
 
 TEST_MODE = True
